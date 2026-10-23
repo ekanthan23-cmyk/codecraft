@@ -1,0 +1,1 @@
+ALTER TABLE `learnerProfiles` ADD `selectedWorkspaceTool` varchar(40) DEFAULT 'java' NOT NULL;
